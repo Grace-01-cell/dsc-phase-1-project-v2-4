@@ -49,7 +49,7 @@ This project used the following;
 ---
 
 # 4.Data visualization
-![Distribution_of_released_films_per_month](Images/Distribution_of_released_films_per_month.png)
+![Distribution_of_released_films_per_month](images/Distribution_of_released_films_per_month.png)
 we used the following visualizations;
 (images/top_10_studios.png)
 (images/ROI_per_month.png)
